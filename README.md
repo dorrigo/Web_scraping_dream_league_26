@@ -18,7 +18,7 @@ Os dados foram raspados e processados para fornecer uma visão clara do meta atu
 
 Python (Bibliotecas: Selenium, Pandas, Seaborn e Matplotlib)
 
-🔍 Confira abaixo as tabelas com os resultados!
+🔍 Confira abaixo os gráficos com os resultados!
 
 ![Heróis mais Pickados](/images/picks.png)
 
